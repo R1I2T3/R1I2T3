@@ -6,7 +6,7 @@
 <h3 align="left">Software Developer 🕸️</h3>
 
 
-- 🌱 I’m currently working on **Next.js,Django,MERN stack,Expo*
+- 🌱 I’m currently working on *Next.js,Django,MERN stack,Expo*
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
 - 💬 Ask me about: **Anything that captivates your curiousity**
 - 📫 How to reach me *jhar27018@gmail.com*
@@ -22,7 +22,7 @@
 ## ⚔️Languages and Tools: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,react,next&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,tailwind,react,next,django,express,postgres,mongodb,mysql,docker&perline=10" />
   </a>
 </p>
 
