@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4169E1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parshad!⚡;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4169E1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh!⚡;" />
 </h1>
 
 <h1 align="left">Ritesh Jha</h1> 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on **Next.js,Django,MERN stack,Expo*
 - 🤝 I’m looking to collaborate on: **Open-source projects that push the boundaries of innovation**
 - 💬 Ask me about: **Anything that captivates your curiousity**
-- 📫 How to reach me **jhar27018@gmail.com*
+- 📫 How to reach me *jhar27018@gmail.com*
 
 
 ## 🌐Let's Connect:
@@ -32,7 +32,7 @@
 
 <div align="center" gap=2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r1i2t3&show_icons=true&locale=en&layout=compact&theme=radical" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=r1i2t3k&show_icons=true&theme=transparent" height="175" alt="grades"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=r1i2t3&show_icons=true&theme=transparent" height="175" alt="grades"/>
   <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1i2t3&show_icons=true&theme=transparent" height="175" alt="stats" /></p>
 </div>
