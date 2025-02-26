@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4169E1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritesh!⚡;" />
 </h1>
-![Profile Views](https://komarev.com/ghpvc/?username=r1i2t3&style=flat-square)
+
 <h1 align="left">Ritesh Jha</h1> 
 <h3 align="left">Software Developer 🕸️</h3>
 
